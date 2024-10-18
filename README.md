@@ -1,6 +1,6 @@
 Bank Management System – Testing av Programvare
 Prosjektoversikt
-Dette prosjektet er en bankadministrasjonsapplikasjon som ble utviklet som en del av faget "Testing av programvare." Hovedfokuset var å utføre omfattende testing, inkludert enhetstesting, integrasjonstesting og systemtesting. Applikasjonen lar bankkunder håndtere sine kontoer, betalinger og personlig informasjon, mens administratorer kan administrere kundedata og kontotyper.
+Dette prosjektet er en bankadministrasjonsapplikasjon som ble utviklet som en del av faget "Testing av programvare." Hovedfokuset var å utføre omfattende testing, inkludert enhetstesting, integrasjonstesting og systemtesting. Applikasjonen lar bankkunder håndtere kontoer, betalinger og personlig informasjon, mens administratorer kan administrere kundedata og kontotyper.
 
 Testverktøy
 For å sikre grundig testing av systemet ble flere verktøy brukt:
